@@ -1,11 +1,15 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+#忽略文件夹
+/docs/
+/gui/templates/
+/gui/templates_c/
+/logs/
+/third_party/
+/upload_area/
 
-# Other files and folders
-.settings/
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#忽略文件
+/BUYING_SUPPORT.TXT
+/CHANGELOG
+/CODE_REUSE
+/custom_config.inc.php.example
+/LICENSE
+/README
