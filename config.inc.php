@@ -90,7 +90,7 @@ $tlCfg->instance_id = 'Main TestLink Instance';
 // The value must be available in $$tlCfg->locales (see cfg/const.inc.php).
 // Note: An attempt will be done to establish the default locale
 // automatically using $_SERVER['HTTP_ACCEPT_LANGUAGE']
-$tlCfg->default_language = 'zh_CN';
+$tlCfg->default_language = 'en_US';
 
 /**
  * @var string Charset 'UTF-8' is only officially supported charset (Require
